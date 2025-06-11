@@ -1,2 +1,2 @@
 "# nhom6_quanlyquaninternett"  
-link github:
+link github:https://github.com/Nguyenphuong1234/KTPMLT6_NHOM6_QLQuanInternet/blob/main/README.md
