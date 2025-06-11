@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KhachHangList>
+    <KhachHang>
+        <MaKhachHang>1</MaKhachHang>
+        <TenKhachHang>Đồng Thị Ánh</TenKhachHang>
+        <SoDienThoai>0123578987</SoDienThoai>
+        <Email>donganh41105@gmail.com</Email>
+        <DiemTichLuy>0</DiemTichLuy>
+    </KhachHang>
+    <KhachHang>
+        <MaKhachHang>2</MaKhachHang>
+        <TenKhachHang>Nguyễn Minh Phương</TenKhachHang>
+        <SoDienThoai>0834926667</SoDienThoai>
+        <Email>minhphuong0705@gmail.com</Email>
+        <DiemTichLuy>0</DiemTichLuy>
+    </KhachHang>
+</KhachHangList>
